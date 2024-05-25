@@ -2,14 +2,15 @@
 
 ## My Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
 - **Python**
 - **C**
 - **C++**
 - **Java**
-- **HTML/CSS**
+- **SQL**
 - **JavaScript**
+- **Go**
 
 ## About Me
-I'm a senior developer working on various projects including web development, kernel development, and more. Check out my repositories to see my work!
+I'm a senior developer working on various projects including web development, kernel development,cyber security researcher and more. Check out my repositories to see my work!
